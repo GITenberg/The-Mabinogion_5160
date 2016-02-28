@@ -1,0 +1,28 @@
+_repo: The-Mabinogion_5160
+contributor:
+  translator:
+    agent_name: Schreiber, Charlotte, Lady
+    aliases:
+    - Schreiber, Charlotte Elizabeth Bertie Guest, Lady
+    - Guest, Charlotte, Lady
+    birthdate: 1812
+    deathdate: 1895
+    gutenberg_agent_id: '1716'
+    url: http://www.gutenberg.org/2009/agents/1716
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Wales'
+- !lcsh 'Welsh literature -- 1100-1400 -- Translations into English'
+- !lcsh 'Mythology, Celtic -- Wales'
+- !lcc 'PB'
+title: The Mabinogion
+url: http://www.gutenberg.org/ebooks/5160
