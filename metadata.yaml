@@ -1,5 +1,5 @@
 _repo: The-Mabinogion_5160
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Schreiber, Charlotte, Lady
@@ -10,7 +10,12 @@ contributor:
     deathdate: 1895
     gutenberg_agent_id: '1716'
     url: http://www.gutenberg.org/2009/agents/1716
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5160#The-Mabinogion
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
