@@ -1,5 +1,5 @@
 _repo: The-Mabinogion_5160
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Schreiber, Charlotte, Lady
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Welsh literature -- 1100-1400 -- Translations into English'
 - !lcsh 'Mythology, Celtic -- Wales'
 - !lcc 'PB'
+- GITenberg
 title: The Mabinogion
 url: http://www.gutenberg.org/ebooks/5160
